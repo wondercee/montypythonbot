@@ -3,7 +3,7 @@
 
 import tweepy, time, sys
 
-argfile = str(sys.argv[1])
+argfile = 'helloworld.txt'
 
 #enter the corresponding information from your Twitter application:
 CONSUMER_KEY = 'lu4iEecPQFZn4s9LGRPpYGUWb'
